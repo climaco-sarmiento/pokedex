@@ -1,6 +1,6 @@
 # Pokedex - a simple DOM manipulation exercise
 
-This is Pokedex, which is basically a bunch of Pokemoon cards, with the imade, the id, the name, the type and depending on the type, the background color will be a specific color. PokeApi is the source of the data used. This is a simple DOM manipulation exercise that I did, folowing along with a tutorial.
+This is Pokedex, which is basically a bunch of Pokemoon cards, with the image, id, name, type and depending on the type, the background color to be a specific color. PokeApi is the source of the data used. This is a simple DOM manipulation exercise that I did, folowing along with a tutorial.
 
 ### Links
 
